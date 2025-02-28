@@ -59,6 +59,6 @@ La interfaz está dividida en tres secciones principales, cada una representada 
 
 ## Instalación
 
-1. Clonar el repositorio en tu máquina local:
+1. Usa el repositorio:
    ```bash
-   git clone <URL del repositorio>
+   https://devops.tiquetevirtual.com
